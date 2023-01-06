@@ -1,7 +1,7 @@
 {
-  "name": "phaser3-project-template",
-  "version": "1.1.3",
-  "description": "A Phaser 3 Project Template",
+  "name": "blue-derby",
+  "version": "0.0.1",
+  "description": "Interstellar Game Jam 4 - Another Dimension",
   "main": "src/index.js",
   "scripts": {
     "build": "webpack --config webpack/prod.js ",
@@ -11,13 +11,11 @@
     "type": "git",
     "url": "git+https://github.com/photonstorm/phaser3-project-template.git"
   },
-  "author": "Richard Davey <rdavey@gmail.com> (http://www.photonstorm.com)",
-  "license": "MIT",
-  "licenseUrl": "http://www.opensource.org/licenses/mit-license.php",
+  "author": "Phoenix Gabriel <github@korv.us> (https://github.com/q00u)",
   "bugs": {
-    "url": "https://github.com/photonstorm/phaser3-project-template/issues"
+    "url": "https://github.com/q00u/interstellarjam4/issues"
   },
-  "homepage": "https://github.com/photonstorm/phaser3-project-template#readme",
+  "homepage": "https://github.com/q00u/interstellarjam4#readme",
   "devDependencies": {
     "@babel/core": "^7.20.12",
     "@babel/preset-env": "^7.20.2",
